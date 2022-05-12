@@ -1,0 +1,26 @@
+{
+  "name": "CasinoDiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servo98/CasinoDiscord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/servo98/CasinoDiscord/issues"
+  },
+  "homepage": "https://github.com/servo98/CasinoDiscord#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.3.3"
+  }
+}
