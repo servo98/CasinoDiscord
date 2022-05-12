@@ -1,0 +1,7 @@
+{
+    "commands": {
+        "claim": "dailyClaim",
+        "play": "newGame",
+        "transfer": "transfer"
+    }
+}
